@@ -41,4 +41,3 @@ Feel free to pre-populate your customers with the following:
     "name": "Georgina Hazel"
   }
 ]
-``
